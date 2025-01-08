@@ -1,35 +1,35 @@
 taeyoon0526.github.io
 
-# Instagram-Themed Page
+# 📸 Instagram-Themed Page
 
 ---
 
-![Logo](https://via.placeholder.com/100x40?text=Logo)
+![Logo](https://via.placeholder.com/150x50?text=Instagram+Logo)
 
-### 🔍 Search  
-**[Enter search term here...]**
+### 🔍 Search
+`[ Enter your search here... ]`
 
 ---
 
-## Feed
+## 📰 Feed
 
 ---
 
 ### Post 1  
 ![Post Image](https://via.placeholder.com/500x300?text=Post+Image)  
 **@username**  
-*Caption goes here...*
+*This is the caption for the first post.*
 
 ---
 
 ### Post 2  
 ![Another Post](https://via.placeholder.com/500x300?text=Another+Post)  
 **@anotheruser**  
-*Another caption here...*
+*This is another caption for the second post.*
 
 ---
 
-## Footer  
+## 📄 Footer
 
-© 2025 Instagram Theme  
-[Privacy](#) • [Terms](#)
+© 2025 Instagram-Themed Page  
+[Privacy](#) • [Terms](#) • [Contact](#)
