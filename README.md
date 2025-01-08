@@ -58,7 +58,7 @@ taeyoon0526.github.io
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,css,discord,github,js,java,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,css,discord,github,js,java&perline=14" />
   </a>
 </p>
 
