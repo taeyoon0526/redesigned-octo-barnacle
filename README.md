@@ -31,7 +31,7 @@ taeyoon0526.github.io
 <td width="50%" align="center">
   
   
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=Kevin-innovation&theme=dark&show_icons=true&count_private=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=taeyoon0526&theme=dark&show_icons=true&count_private=false" /> 
 </td>
 
 </tr>
@@ -78,7 +78,7 @@ taeyoon0526.github.io
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=Kevin-innovation&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=taeyoon0526&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
