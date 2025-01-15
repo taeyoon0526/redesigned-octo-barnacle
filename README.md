@@ -42,7 +42,7 @@ taeyoon0526.github.io
 
 <!-- Education -->
 ### 🎓 Education
-- **High School Student** at Seoul International High School
+- **Middle School Student** in Daegu.
 - Learning advanced **Java Programming** and exploring **Web Development**.
 
 ---
@@ -59,7 +59,13 @@ taeyoon0526.github.io
 ### 🏅 Achievements & Badges
 ![GitHub followers](https://img.shields.io/github/followers/taeyoon0526?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/taeyoon0526?style=social)
-![Java](https://img.shields.io/badge/Java-Expert-red?logo=java)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange?logo=java)
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-red?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Beginner-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?logo=javascript)
+![Git](https://img.shields.io/badge/Git-Intermediate-orange?logo=git)
+
 
 ---
 
