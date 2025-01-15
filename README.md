@@ -47,6 +47,17 @@ taeyoon0526.github.io
 
 ---
 
+<!-- Personal Interests & Hobbies -->
+### 🌟 Personal Interests & Hobbies
+- 🎮 **Gaming**: I enjoy exploring immersive story-driven games and multiplayer adventures.
+- 🎨 **Digital Art**: Experimenting with creative tools like Photoshop and Procreate.
+- 📱 **Technology Trends**: Staying updated on the latest advancements in AI, Web3, and IoT.
+- 🤖 **Artificial Intelligence**: Fascinated by machine learning models and their real-world applications.
+- 🔒 **Cybersecurity**: Interested in learning about ethical hacking and secure coding practices.
+- 📚 **Reading**: Avid reader of science fiction and technology books.
+
+---
+
 <!-- Future Goals -->
 ### 🌟 Future Goals
 - 💻 Learn **ReactJS** and **Node.js** for full-stack web development.
@@ -66,7 +77,6 @@ taeyoon0526.github.io
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?logo=javascript)
 ![Git](https://img.shields.io/badge/Git-Intermediate-orange?logo=git)
 
-
 ---
 
 <!-- Profile Visit Counter -->
@@ -84,4 +94,4 @@ taeyoon0526.github.io
 <p align="center">Thanks for visiting my GitHub profile! Feel free to explore and connect with me.</p>
 
 <!--horizontal divider (gradient)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
