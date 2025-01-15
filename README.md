@@ -1,4 +1,4 @@
-# 🌟 taeyoon0526.github.io
+taeyoon0526.github.io
 
 <!--horizontal divider (gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
@@ -46,7 +46,7 @@
 ### 👨🏻‍💻 Technologies That I Know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,css,discord,github,js,java&perline=6" alt="Technologies" />
+    <img src="https://skillicons.dev/icons?i=git,c,css,discord,github,js,java&perline=10" alt="Technologies" />
   </a>
 </p>
 
