@@ -26,9 +26,8 @@ taeyoon0526.github.io
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
-<p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Taeoon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taeyoon0526&theme=dark&show_icons=true&count_private=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taeyoon0526&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyoon0526&layout=compact&theme=radical)
 
 ---
 
