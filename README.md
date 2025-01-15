@@ -32,23 +32,34 @@ taeyoon0526.github.io
 
 ---
 
-<!-- GitHub Trophies -->
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophies">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=taeyoon0526&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
-  </a>
-</p>
+<!-- Contact & Social Media -->
+### 📫 How to Reach Me
+- Email: [taeyoon.kim@example.com](#)
+- LinkedIn: [taeyoon_0526](#)
+- Twitter: [@taeyoon_0526](#)
 
 ---
 
-<!-- Technologies -->
-### 👨🏻‍💻 Technologies That I Know
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,css,discord,github,js,java&perline=10" alt="Technologies" />
-  </a>
-</p>
+<!-- Education -->
+### 🎓 Education
+- **High School Student** at Seoul International High School
+- Learning advanced **Java Programming** and exploring **Web Development**.
+
+---
+
+<!-- Future Goals -->
+### 🌟 Future Goals
+- 💻 Learn **ReactJS** and **Node.js** for full-stack web development.
+- 🛠 Build a large-scale open-source project.
+- 📚 Contribute to meaningful projects in the AI and gaming industries.
+
+---
+
+<!-- Badges -->
+### 🏅 Achievements & Badges
+![GitHub followers](https://img.shields.io/github/followers/taeyoon0526?style=social)
+![GitHub stars](https://img.shields.io/github/stars/taeyoon0526?style=social)
+![Java](https://img.shields.io/badge/Java-Expert-red?logo=java)
 
 ---
 
@@ -67,4 +78,4 @@ taeyoon0526.github.io
 <p align="center">Thanks for visiting my GitHub profile! Feel free to explore and connect with me.</p>
 
 <!--horizontal divider (gradient)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">  
